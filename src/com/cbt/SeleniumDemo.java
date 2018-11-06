@@ -10,7 +10,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class SeleniumDemo {
 	public static void main(String[] args) throws InterruptedException {
 		
-		// For chrome we use "webdriver.chrome.driver" and for firefox we use "webdriver.gecko.driver" and we get their locations from
+		// For asas chrome we use "webdriver.chrome.driver" and for firefox we use "webdriver.gecko.driver" and we get their locations from
 		// driver folder that we created inside the document on this computer. We basically rigth click in the driver and get info-where
 		// and we copy that place, additionally we place /chromedriver or /chromedriver
 		
